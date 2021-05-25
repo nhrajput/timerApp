@@ -1,0 +1,29 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    background: #000;
+}
+.main{
+    display: flex;
+    height: 60vh;
+    justify-content: center;
+    align-items: center;
+    width: 344px;
+    background-color: #fff;
+    margin: 130px auto;
+    border: 2px solid white;
+    border-radius: 25%;
+    box-shadow: 2px 3px 2px #000;
+}
+p{
+    display: inline-flex;
+    height: 70px;
+    width: 220px;font-size: 50px;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    color: blue;
+    font-weight: bold;
+    font-size: 4.3rem;
+    text-shadow: 2px 3px 2px lightblue;
+}
